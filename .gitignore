@@ -102,11 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-*.jpg
-*.png
-*.gz
-*.index
-*.data-00000-of-00001
-*.local
-tutorials/cat_dogs/logs/checkpoint
 *.tfrecords
+.idea/
